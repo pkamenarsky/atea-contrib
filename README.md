@@ -4,7 +4,7 @@ This repository contains user generated contributions for [Atea](https://github.
 
 ## Organization
 
-Each contribution has its own git submodule; after cloning the `atea-contrib` you need to run the following commands in order to get all submodules:
+Each contribution has its own git submodule; after cloning the `atea-contrib` repository you need to run the following commands in order to get all submodules:
 
     $ git submodule init
     $ git submodule update
