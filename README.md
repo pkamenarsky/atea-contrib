@@ -1,10 +1,10 @@
 # Atea contributions
 
-This repository contains user generated contributions for [Atea](https://github.com/pkamenarsky/atea), a MacOS status bar time tracker.
+This repository contains user contributions for [Atea](https://github.com/pkamenarsky/atea), a MacOS status bar time tracker.
 
 ## Organization
 
-Each contribution has its own git submodule; after cloning the `atea-contrib` repository you need to run the following commands in order to get all submodules:
+Each contribution has its own git submodule; after cloning the `atea-contrib` repository you'll need to run the following commands in order to get all submodules:
 
     $ git submodule init
     $ git submodule update
