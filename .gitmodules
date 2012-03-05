@@ -1,3 +1,6 @@
 [submodule "Atea.tmbundle"]
 	path = Atea.tmbundle
 	url = https://github.com/jpettersson/Atea.tmbundle
+[submodule "hitea"]
+	path = hitea
+	url = https://github.com/Beakr/hitea

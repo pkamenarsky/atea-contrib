@@ -11,7 +11,8 @@ Each contribution has its own git submodule; after cloning the `atea-contrib` re
 
 ## Contributors
 
-[Jonathan Pettersson](https://github.com/jpettersson) - TextMate bundle for Atea
+ * [Jonathan Pettersson](https://github.com/jpettersson) - TextMate bundle for Atea
+ * [Chris Clarke](https://github.com/Beakr) - Syntax-highlighting theme for TextMate & vim
 
 ## License
 
