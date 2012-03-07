@@ -4,3 +4,6 @@
 [submodule "hitea"]
 	path = hitea
 	url = https://github.com/Beakr/hitea
+[submodule "atea.vim"]
+	path = atea.vim
+	url = https://github.com/pkamenarsky/atea.vim
